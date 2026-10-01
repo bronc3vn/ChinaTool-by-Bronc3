@@ -31,4 +31,6 @@ Phiên bản mới nhất được cung cấp tại mục **Releases**.
 Developed by Bronc3
 
 
+## 👨‍💻 Release
+
 Update v1.1.0 https://github.com/bronc3vn/ChinaTool-by-Bronc3/releases/tag/v1.1.0
